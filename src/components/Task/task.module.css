@@ -1,0 +1,26 @@
+
+
+
+
+.task {
+ width: 400px;
+ height: auto;
+ display:flex;
+ justify-content: space-around;
+ margin-top:50px;
+}
+.task>input{
+width: 20px;
+height:30px;
+
+}
+
+.task>button{
+  width: 100px;
+  height:30px;
+  
+  }
+  .namediv{
+  font-size: 20px;
+  color: red;
+    }

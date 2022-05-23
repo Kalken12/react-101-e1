@@ -1,0 +1,17 @@
+
+.todoForm{
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.todoForm>input{
+    width:300px;
+    height:30px;
+}
+
+.todoForm>button{
+    width:100px;
+    height:30px;
+    color:white;
+    background-color: black;
+}

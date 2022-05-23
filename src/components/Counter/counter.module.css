@@ -1,0 +1,20 @@
+.counter {
+ width: 70px;
+ height: auto;
+ display: flex;
+ justify-content:space-between ;
+}
+.counter>button{
+  width:50px;
+  height:30px;
+
+  
+
+}
+.incre{
+  background-color: green;
+  color: green;
+}
+.decre{
+  background-color: red;
+}
